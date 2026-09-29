@@ -1,1 +1,1 @@
-# Web Technologies Project
+# Web Technologies Course
